@@ -26,8 +26,3 @@ class FlashMassage
     }
 
 }
-
-//$flashMassage = new FlashMassage();
-
-//$flashMassage->set('danger', 'Логин или пароль введены неверно');
-//$flashMassage->display('success');
